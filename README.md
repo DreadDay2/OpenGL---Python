@@ -1,1 +1,1 @@
-"# OpenGL---Python" 
+Efekty pracy w module ModernOpenGL
